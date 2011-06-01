@@ -1,1 +1,14 @@
-nochntest
+Git:
+-----------------------------------
+- TortoiseGit installieren
+- Unter Settings
+	> Git > Config: Name, Email eintragen
+	> Git > Remote > Origin: git@github.com:eiklist/dbit2011.git
+	> Git > Remote > Putty Key: Die ppk auswählen
+
+Repository klonen:
+-----------------------------------
+- Ordner auswählen
+- Tortoise klonen
+	- URL: https://github.com/eiklist/dbit2011.git
+	- Putty key vorher runterladen und angeben
